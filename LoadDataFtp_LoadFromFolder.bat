@@ -1,0 +1,1 @@
+LoadDataFtp.exe LoadFromFolder
